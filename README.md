@@ -47,4 +47,4 @@ Even if you don't have any technical skills, you could help by:
 
 ## Contact
 
-You can contact me at [mailto:pierre.mesure@gmail.com](pierre.mesure@gmail.com).
+You can contact me at [pierre.mesure@gmail.com](mailto:pierre.mesure@gmail.com).
